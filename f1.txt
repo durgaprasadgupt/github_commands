@@ -1,0 +1,29 @@
+Git Commands --->
+----------------
+1. git init -> To initialize the folderor file
+
+2. git add "filename" -> to track the particular file means keeping screen shot of the file
+
+3. git add . ->> to track the all folder
+
+4. git commit -m " your message" -->  here we are giving the name of the screen shot
+
+5. git status --> it will tell you the status of the files means it will tell that which files are modified or changes.
+
+6. git diff -> it will tell you about exact changes in your file
+
+7. git log ---> using this command we can have all the commit details.
+
+8.git checkout 'commit id'---> will take you at that time of folder/file.
+
+9. git branch --> it will show you the head and master.
+
+10. git checkout master --> pointer will switch from head to master 
+
+11.git checkout -b NewBranchName --> it will create a new branch 
+
+12. if you want to switch from internet branch  to master branch then write ----- git checkout master
+
+13.
+
+
